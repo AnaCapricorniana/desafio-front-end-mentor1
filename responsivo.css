@@ -1,0 +1,14 @@
+@media only screen and (max-width: 628px) {
+    .cartao img {
+        display: flex;
+        flex-direction: column;
+        width: 375px;
+        height: 100%;
+    }
+
+    .conteudo {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+}
